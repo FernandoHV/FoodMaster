@@ -16,6 +16,7 @@ import com.bumptech.glide.Glide;
 public class AdaptadorListaParceiros extends ArrayAdapter<String>{
 
         String[] nomes_parceiros;
+        String[] nomes_parceiros2;
         String[] image_url;
         String[] idParceiro;
         Context context;
